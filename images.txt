@@ -1,1 +1,1 @@
---platform=linux/arm64 cooderl/wewe-rss-sqlite:latest
+threatbook/hfish-server:latest
