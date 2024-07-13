@@ -1,1 +1,2 @@
-threatbook/hfish-server:latest
+syncthing/discosrv:latest
+syncthing/relaysrv:latest
