@@ -1,2 +1,1 @@
-syncthing/discosrv:latest
-syncthing/relaysrv:latest
+louislam/uptime-kuma:1
