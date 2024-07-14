@@ -1,1 +1,1 @@
-louislam/uptime-kuma:1
+docker.n8n.io/n8nio/n8n
